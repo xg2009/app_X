@@ -7,6 +7,7 @@ self.addEventListener('install', (e) => {
       '/app_XG/css/style.css',
       "/app_XG/icon/icona-192.png",
       '/app_XG/img/img1.jpg',
+      '/app_XG/img/img2.jpg',
       
     ])),
   );
