@@ -1,3 +1,11 @@
+/**********************************************************************
+  EDITAR: 
+    1 el nom del directori on tenim hostatjada l'app
+      en el aquest cas és 'app_XG' (https://xg2009.github.io/app_XG)
+          .register('/       /sw.js')
+    2 els missatges de la consola
+**********************************************************************/
+
 // Register service worker to control making site work offline
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
@@ -16,6 +24,10 @@ window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   // Stash the event so it can be triggered later.
   deferredPrompt = e;
+  
+  /*************************************************************
+  compte que el botó està amagat si ja hem fet la insal·lació
+  *************************************************************/
   // Update UI to notify the user they can add to home screen
   addBtn.style.display = 'block';
 
