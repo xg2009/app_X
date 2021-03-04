@@ -3,7 +3,7 @@
   "description": "Progressive Web App X",
   "display": "fullscreen",
   "icons": [
-    {
+   		{
 			"src": "/app_XG/icon/icona-32.png",
 			"sizes": "512x512",
 			"type": "image/png"
