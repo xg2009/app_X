@@ -1,3 +1,12 @@
+/***********************************************************
+
+    EDITAR:
+        1 nom - app_XG
+        2 array amb tots els recursos que volem guardar 
+          a la cache del dispositiu
+
+***********************************************************/
+
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('app_XG').then((cache) => cache.addAll([
