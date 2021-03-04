@@ -4,7 +4,7 @@ self.addEventListener('install', (e) => {
       '/app_XG/',
       '/app_XG/index.html',
       '/app_XG/index.js',
-      '/app_XG/style.css',
+      '/app_XG/css/style.css',
       "/app_XG/icon/icona-192.png",
       '/app_XG/img/img1.jpg',
       
