@@ -5,10 +5,8 @@ self.addEventListener('install', (e) => {
       '/app_XG/index.html',
       '/app_XG/index.js',
       '/app_XG/style.css',
-      '/app_XG/images/fox1.jpg',
-      '/app_XG/images/fox2.jpg',
-      '/app_XG/images/fox3.jpg',
-      '/app_XG/images/fox4.jpg',
+      '/app_XG/img/img1.jpg',
+      
     ])),
   );
 });
