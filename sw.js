@@ -4,6 +4,8 @@ self.addEventListener('install', (e) => {
       '/app_XG/',
       '/app_XG/index.html',
       '/app_XG/index.js',
+      '/app_XG/cont/pag_02.html',
+      '/app_XG/cont/pag_03.html',
       '/app_XG/css/style.css',
       '/app_XG/fonts/graduate.ttf',
       '/app_XG/icon/icona-32.png',
@@ -14,8 +16,7 @@ self.addEventListener('install', (e) => {
       '/app_XG/icon/icona-512.png',
       '/app_XG/img/img1.jpg',
       '/app_XG/img/img2.jpg',
-      '/app_XG/cont/pag_02.html',
-      
+      '/app_XG/js/pag_02.js',
     ])),
   );
 });
