@@ -1,6 +1,6 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('app_X').then((cache) => cache.addAll([
+    caches.open('app_XG').then((cache) => cache.addAll([
       '/app_XG/',
       '/app_XG/index.html',
       '/app_XG/index.js',
