@@ -18,6 +18,7 @@ self.addEventListener('install', (e) => {
       '/app_XG/css/style.css',
       '/app_XG/fonts/graduate.ttf',
       '/app_XG/icon/icona-32.png',
+      '/app_XG/icon/icona-64.png',
       '/app_XG/icon/icona-128.png',
       '/app_XG/icon/icona-168.png',
       '/app_XG/icon/icona-192.png',
