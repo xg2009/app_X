@@ -3,6 +3,11 @@
   "description": "Progressive Web App X",
   "display": "fullscreen",
   "icons": [
+		{
+			"src": "/app_XG/icon/icona-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
    		{
 			"src": "/app_XG/icon/icona-32.png",
 			"sizes": "512x512",
@@ -26,11 +31,6 @@
 		{
 			"src": "/app_XG/icon/icona-256.png",
 			"sizes": "256x256",
-			"type": "image/png"
-		},
-		{
-			"src": "/app_XG/icon/icona-512.png",
-			"sizes": "512x512",
 			"type": "image/png"
 		}
   ],
