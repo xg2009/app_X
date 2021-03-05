@@ -47,3 +47,10 @@ window.addEventListener('beforeinstallprompt', (e) => {
     });
   });
 });
+
+
+window.addEventListener('appinstalled', (e) => {
+	
+	alert("App instal·lada") ;
+	
+})
