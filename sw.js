@@ -24,6 +24,7 @@ self.addEventListener('install', (e) => {
       '/app_XG/icon/icona-192.png',
       '/app_XG/icon/icona-256.png',
       '/app_XG/icon/icona-512.png',
+      '/app_XG/icon/icona-1024.png',
       '/app_XG/img/img1.jpg',
       '/app_XG/img/img2.jpg',
       '/app_XG/js/pag_02.js',
